@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ReelMatics.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8dd56ba0b5913359afdcc0c0d8802c1bfc1aec3b")]
 [assembly: System.Reflection.AssemblyProductAttribute("ReelMatics.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ReelMatics.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

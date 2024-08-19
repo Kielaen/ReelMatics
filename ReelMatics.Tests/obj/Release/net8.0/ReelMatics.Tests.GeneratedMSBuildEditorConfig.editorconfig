@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ReelMatics.Tests
-build_property.ProjectDir = C:\Users\Kielaen\source\repos\ReelMatics\ReelMatics.Tests\
+build_property.ProjectDir = C:\Dev\ReelMatics\ReelMatics.Tests\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
